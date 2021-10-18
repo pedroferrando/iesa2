@@ -18,7 +18,7 @@
             
             <div class="panel-heading">
                 <div class="row">
-                    <div class="col-md-6"><b> REGISTRADOS EN EL SISTEMA IESA</b></div>
+                    <div class="col-md-6"><b> CLIENTES REGISTRADOS EN EL SISTEMA IESA</b></div>
                 </div>
             </div>
 
